@@ -1,6 +1,6 @@
 # AniX - Stream Animes
 
-This is the backend repository of AniX built with scrapy framework. 
+This is the backend of AniX built with scrapy framework. 
 
 ## Spiders
 
